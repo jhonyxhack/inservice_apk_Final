@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.cuasmex.inservice_apk"
+    android:versionCode="2"
+    android:versionName="2.0" >
+
+    <uses-sdk
+        android:minSdkVersion="10"
+        android:targetSdkVersion="15" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:icon="@drawable/logo40x40"
+        android:label="@string/title_activity_main"
+        android:logo="@drawable/logo40x40" >
+        <activity
+            android:id="@+id/activity1"
+            android:name="com.example.inservice_apk.MainActivity"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.inservice_apk.activity_areas_boton"
+            android:label="@string/title_activity_activity_areas_boton"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.inservice_apk.activity_cursos"
+            android:label="@string/title_activity_activity_cursos"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.inservice_apk.activity_tema"
+            android:label="@string/title_activity_activity_tema"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.inservice_apk.detalle_video"
+            android:label="@string/title_activity_detalle_video"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.cuasmex.inservice_apk.Prueba"
+            android:label="@string/title_activity_prueba" >
+        </activity>
+        <activity
+            android:name="com.cuasmex.inservice_apk.Otra"
+            android:label="@string/title_activity_otra" >
+        </activity>
+        <activity
+            android:name="com.cuasmex.inservice_apk.Main"
+            android:label="@string/title_activity_main" >
+        </activity>
+    </application>
+
+</manifest>

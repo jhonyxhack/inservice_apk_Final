@@ -1,0 +1,64 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/fondo_general"
+    android:orientation="vertical"
+    android:screenOrientation="portrait" >
+
+    <LinearLayout
+        style="@style/color_fondo_botones"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/button2"
+            style="@style/color_fondo_botones"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="50"
+            android:drawableTop="@drawable/info_icon"
+            android:text="Information" />
+
+        <Button
+            android:id="@+id/button1"
+            style="@style/color_fondo_botones"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="50"
+            android:drawableTop="@drawable/arrow_siguiente"
+            android:text="Ver los cursos" />
+    </LinearLayout>
+
+    <HorizontalScrollView
+        android:id="@+id/horizontalScrollView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal" >
+
+            <ImageButton
+                android:id="@+id/imagen3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <ImageButton
+                android:id="@+id/imagen2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            
+            <ImageButton
+            android:id="@+id/imagen1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+             
+        </LinearLayout>
+       
+     </HorizontalScrollView>
+
+</LinearLayout>

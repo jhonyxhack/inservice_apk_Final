@@ -1,0 +1,11 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="AppTheme" parent="android:Theme.Light" />
+    <style name="boton_imagen">
+       
+    </style>
+     <style name="color_fondo_botones" parent="@android:style/TextAppearance.Medium" >
+        <item name="android:background">#94AEBD</item>
+    </style>
+
+</resources>

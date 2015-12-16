@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Romina\\AndroidStudioProjects\\inservice_apk_Final\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Romina\\AndroidStudioProjects\\inservice_apk_Final\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Romina\\AndroidStudioProjects\\inservice_apk_Final\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cursos.xml",
+        "source": "C:\\Users\\Romina\\AndroidStudioProjects\\inservice_apk_Final\\app\\src\\main\\res\\layout\\activity_cursos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Romina\\AndroidStudioProjects\\inservice_apk_Final\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tema.xml",
+        "source": "C:\\Users\\Romina\\AndroidStudioProjects\\inservice_apk_Final\\app\\src\\main\\res\\layout\\activity_tema.xml"
+    },
+    {
+        "merged": "C:\\Users\\Romina\\AndroidStudioProjects\\inservice_apk_Final\\app\\build\\intermediates\\res\\merged\\debug\\layout\\detalle_video.xml",
+        "source": "C:\\Users\\Romina\\AndroidStudioProjects\\inservice_apk_Final\\app\\src\\main\\res\\layout\\detalle_video.xml"
+    }
+]

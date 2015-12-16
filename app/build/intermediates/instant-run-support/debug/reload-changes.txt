@@ -1,0 +1,2 @@
+C:\Users\Romina\AndroidStudioProjects\inservice_apk_Final\app\build\intermediates\transforms\instantRun\debug\folders\4000\1\enhanced\com\example\inservice_apk\BaseDatosHelper$override.class
+C:\Users\Romina\AndroidStudioProjects\inservice_apk_Final\app\build\intermediates\transforms\instantRun\debug\folders\4000\1\enhanced\com\android\build\gradle\internal\incremental\AppPatchesLoaderImpl.class

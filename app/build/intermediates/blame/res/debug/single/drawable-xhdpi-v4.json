@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Romina\\AndroidStudioProjects\\inservice_apk_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_search.png",
+        "source": "C:\\Users\\Romina\\AndroidStudioProjects\\inservice_apk_Final\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Romina\\AndroidStudioProjects\\inservice_apk_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Romina\\AndroidStudioProjects\\inservice_apk_Final\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]
