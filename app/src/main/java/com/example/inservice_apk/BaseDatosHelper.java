@@ -153,7 +153,7 @@ public class BaseDatosHelper extends SQLiteOpenHelper {
 		@Override
 		public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {
 			//No usamos este m�todo
-		}
+		}   
 	 
 		//Podemos a�adir m�todos p�blicos que accedan al contenido de la base de datos, 
 		//para realizar consultas, u operaciones CRUD (create, read, update, delete)
